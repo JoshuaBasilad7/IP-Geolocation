@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "candidate@example.com",
+      "password": "$2a$10$1IjOSjkwC.rvnxNqgH/mwOSsIIAThU/1baIAvAn7KoYUogwSVZmiy",
+      "name": "Candidate User"
+    }
+  ],
+  "histories": {
+    "1": [
+      {
+        "id": "6UFAoNMVYYOh37mW6vVWa",
+        "ip": "185.60.216.35",
+        "data": {
+          "ip": "185.60.216.35",
+          "city": "East Palo Alto",
+          "region": "California",
+          "country": "US",
+          "loc": "37.4688,-122.1411",
+          "org": "AS32934 Facebook, Inc.",
+          "postal": "94303",
+          "timezone": "America/Los_Angeles",
+          "readme": "https://ipinfo.io/missingauth"
+        },
+        "when": "2025-10-08T07:43:10.948Z"
+      },
+      {
+        "id": "ivqxv-DC0aSLG1_Yz-2C_",
+        "ip": "103.152.117.27",
+        "data": {
+          "ip": "103.152.117.27",
+          "city": "Faisalabad",
+          "region": "Punjab",
+          "country": "PK",
+          "loc": "31.4155,73.0897",
+          "org": "AS150371 Pace Telecom and Brodcasting Private Limited",
+          "postal": "38000",
+          "timezone": "Asia/Karachi",
+          "readme": "https://ipinfo.io/missingauth"
+        },
+        "when": "2025-10-08T07:43:53.274Z"
+      }
+    ]
+  }
+}
